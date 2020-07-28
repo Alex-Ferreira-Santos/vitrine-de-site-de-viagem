@@ -1,0 +1,17 @@
+﻿@model List<PacoteDeViagens>
+@{
+    ViewData["Title"] = "Home Page";
+}
+<link rel="stylesheet" href="~/css/Index.css">
+<h2>Pacotes disponiveis</h2>
+@foreach (PacoteDeViagens item in Model)
+{
+    <div id="principal">
+        <p id="conheca">Conheça:</p>
+        <p id="nome">@item.nome</p>
+        <p><img src="~/imagens/@item.imagem" alt="imagem do local" id="local"></p>
+        <p id="origem">De <b>@item.origem</b> a <b>@item.destino</b></p>
+        <p id="atracao">Atrativos: <br>@item.atrativo</p>
+        <p id="saida">saida: @item.saida <br> retorno: @item.retorno</p>
+    </div>
+}

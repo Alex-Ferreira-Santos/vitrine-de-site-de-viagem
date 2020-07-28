@@ -1,0 +1,19 @@
+@model PacoteDeViagens
+@{ViewData["Title"]="Exclusão de pacotes";}
+<link rel="stylesheet" href="~/css/PExcluir.css">
+<fieldset>
+<h2>Exclusão de pacotes</h2>
+@if(ViewBag.mensagem==null){
+<h3 id="certeza">Tem certeza que deseja excluir este pacote?</h3>}
+else{<p>@ViewBag.mensagem</p>}
+<form asp-action="Excluir" method="post">
+    <p><label asp-for="id">Digite o id do pacote que deseja excluir</label></p>
+    <p><input asp-for="id" required placeholder="número do id"></p>
+    <p><label asp-for="nome">Digite o nome do pacote que deseja excluir</label></p>
+    <p><input asp-for="nome" required placeholder="nome do pacote"></p>
+    <p><input type="submit" value="Excluir" id="Excluir"></p>
+    <p><a asp-action="Lista"><input type="button" value="Cancelar" id="cancelar"></a></p>
+</form>
+<p id="listar_page">@if(ViewBag.mensagem!=null){<a asp-action="Lista" id="listar_page">Voltar a listagem</a>}
+</p>
+</fieldset>

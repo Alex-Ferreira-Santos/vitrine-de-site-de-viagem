@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2PVo3Ealvy9LfCg67fcCBAXD8i0cGhmhMVGk4n8+bR/PkgnepTKTCHiqbRxWaIGy6m9s5Izr83s9XA2Wm5jX4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Casa\\OneDrive\\Documents\\GitHub\\vitrine-de-site-de-viagem\\Site\\Atividade_2_Alex_Ferreira_Santos1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Casa\\.nuget\\packages\\mysqlconnector\\0.66.0\\mysqlconnector.0.66.0.nupkg.sha512"
+  ],
+  "logs": []
+}

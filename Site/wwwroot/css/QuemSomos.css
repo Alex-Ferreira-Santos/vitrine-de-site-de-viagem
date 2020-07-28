@@ -1,0 +1,12 @@
+main{
+    width: 500px;
+    left: 400px;
+    text-align: center;
+}
+p#quem{
+    font-size: 20px;
+}
+a#voltar{
+    position: relative;
+    color: blue;
+}

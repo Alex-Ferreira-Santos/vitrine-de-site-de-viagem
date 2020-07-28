@@ -1,0 +1,19 @@
+@model Usuario
+@{ViewData["Title"]="Login de Usuário";}
+<link rel="stylesheet" href="~/css/ULogin.css">
+<fieldset>
+<h2>Login de Usuário</h2>
+<p id="viewbag">@ViewBag.mensagem</p>
+<form asp-action="Login" method="post">
+    <p id="img"><img src="~/imagens/user.jpg" alt="foto de usuario"></p>
+    <p>
+        <label asp-for="login">Login:</label>
+        <input asp-for="login" placeholder="digite seu login aqui">
+    </p>
+    <p>
+        <label asp-for="senha">Senha:</label>
+        <input asp-for="senha" type="password" placeholder="digite sua senha aqui">
+    </p>
+    <p><input type="submit" value="Confirmar" id="confirmar"></p>
+</form>
+</fieldset>

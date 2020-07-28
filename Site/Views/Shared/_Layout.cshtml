@@ -1,0 +1,47 @@
+﻿@using Microsoft.AspNetCore.Http
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site2.css">
+</head>
+<body>
+    <header>
+        <section>Viagem a qualquer hora e qualquer lugar.</section>
+        <img src="~/imagens/logo.png" alt="logo" id="logo"><h1 id="nome"><a asp-action="Index"  id="home" asp-controller="Home">Travel Peace</a></h1>
+        <a asp-controller="Usuario" asp-action="Login" id="link_login"><img src="~/imagens/user2.jpg" alt="usuario" id="user"></a>
+        @if (Context.Session.GetInt32("idUsuario")!=null)
+                {
+                    <p id="coluna1">
+                        <a id="coluna1" asp-controller="Pacotes" asp-action="Cadastro">Cadastro de Pacotes</a>|
+                        <a id="coluna1" asp-controller="Pacotes" asp-action="Edicao">Edição de Pacotes</a>|
+                        <a id="coluna1" asp-controller="Pacotes" asp-action="Excluir">Exclusão de Pacotes</a>|
+                        <a id="coluna1" asp-controller="Pacotes" asp-action="Lista">Listagem de Pacotes</a>
+                    </p>
+                    if(Context.Session.GetInt32("tipoUsuario")==1){
+                        <p id="coluna2">
+                            <a id="coluna2" asp-controller="Usuario" asp-action="Cadastro">Cadastro de Usuários</a>|
+                            <a id="coluna2" asp-controller="Usuario" asp-action="Edicao">Edição de Usuários</a>|
+                            <a id="coluna2" asp-controller="Usuario" asp-action="Excluir">Exclusão de Usuários</a>|
+                            <a id="coluna2" asp-controller="Usuario" asp-action="Listar">Listagem de Usuário</a>
+                        </p>
+                    }
+                    <span>Olá <b>@Context.Session.GetString("loginUsuario")</b></span><a asp-controller="Usuario" asp-action="Logout"><h4 id="logout">Logout</h4></a>
+                }
+        else{<h4><a asp-controller="Usuario" asp-action="Login" id="link_login">Login</a></h4>}
+    </header>
+    <div id="main">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <div id="footer">
+        <footer>
+            <h2 id="copy">Travel Peace&copy; 2020</h2>
+            <p> <a asp-action="QuemSomos">Quem Somos</a>  <a asp-action="FaleConosco">Fale Conosco</a></p>
+        </footer>
+    </div>
+</body>
+</html>

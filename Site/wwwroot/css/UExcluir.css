@@ -1,0 +1,46 @@
+fieldset{
+    width: 500px;
+    position: relative;
+    left: 400px;
+    background-color: mediumslateblue;
+    margin-bottom: 10px;
+    color: white;
+}
+h2{
+    text-align: center;
+}
+h3#certeza{
+    text-align: center;
+}
+input{
+    position: relative;
+    width: 200px;
+}
+input#cancelar{
+    position: absolute;
+    left: 280px;
+}
+input#Excluir{
+    position: absolute;
+    left: 30px;
+}
+label{
+    text-align: center;
+    position: relative;
+    left: 0px;
+}
+main p{
+    text-align: center;
+}
+p#viewbag{
+    text-align: center;
+}
+p#listar_page{
+    text-align: center;
+    position: relative;
+    top: 27px;
+    padding-bottom: 10px;
+}
+a#listar_page{
+    color: white;
+}

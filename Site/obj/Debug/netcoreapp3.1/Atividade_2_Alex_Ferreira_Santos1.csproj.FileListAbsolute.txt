@@ -1,0 +1,92 @@
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\bin\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.exe
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\bin\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.deps.json
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\bin\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.runtimeconfig.json
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\bin\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.runtimeconfig.dev.json
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\bin\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.dll
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\bin\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.pdb
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\bin\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.Views.dll
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\bin\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.Views.pdb
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.csprojAssemblyReference.cache
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.RazorAssemblyInfo.cache
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.RazorAssemblyInfo.cs
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.AssemblyInfoInputs.cache
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.AssemblyInfo.cs
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.TagHelpers.input.cache
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.TagHelpers.output.cache
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.RazorCoreGenerate.cache
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.RazorTargetAssemblyInfo.cache
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.RazorTargetAssemblyInfo.cs
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.Views.pdb
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.csproj.CopyComplete
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\staticwebassets\Atividade_2_Alex_Ferreira_Santos1.StaticWebAssets.Manifest.cache
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\staticwebassets\Atividade_2_Alex_Ferreira_Santos1.StaticWebAssets.xml
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.dll
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.pdb
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.genruntimeconfig.cache
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Listar.cshtml.g.cs
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Edicao.cshtml.g.cs
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Excluir.cshtml.g.cs
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Cadastro.cshtml.g.cs
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Edicao.cshtml.g.cs
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Lista.cshtml.g.cs
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Excluir.cshtml.g.cs
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\Razor\Views\Home\FaleConosco.cshtml.g.cs
+C:\Users\Casa\Documents\curso senac\UC-4\Atividade_2_Alex_Ferreira_Santos1\obj\Debug\netcoreapp3.1\Razor\Views\Home\QuemSomos.cshtml.g.cs
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\bin\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.exe
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\bin\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.deps.json
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\bin\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.runtimeconfig.json
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\bin\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.runtimeconfig.dev.json
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\bin\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.dll
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\bin\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.pdb
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\bin\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.Views.dll
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\bin\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.Views.pdb
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.csprojAssemblyReference.cache
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.csproj.CoreCompileInputs.cache
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.RazorAssemblyInfo.cache
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.RazorAssemblyInfo.cs
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.AssemblyInfoInputs.cache
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.AssemblyInfo.cs
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.TagHelpers.input.cache
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.TagHelpers.output.cache
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.RazorCoreGenerate.cache
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\Razor\Views\Home\FaleConosco.cshtml.g.cs
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\Razor\Views\Home\QuemSomos.cshtml.g.cs
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Cadastro.cshtml.g.cs
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Edicao.cshtml.g.cs
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Excluir.cshtml.g.cs
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\Razor\Views\Pacotes\Lista.cshtml.g.cs
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Edicao.cshtml.g.cs
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Excluir.cshtml.g.cs
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Listar.cshtml.g.cs
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.RazorTargetAssemblyInfo.cache
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.RazorTargetAssemblyInfo.cs
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.Views.pdb
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.csproj.CopyComplete
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\staticwebassets\Atividade_2_Alex_Ferreira_Santos1.StaticWebAssets.Manifest.cache
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\staticwebassets\Atividade_2_Alex_Ferreira_Santos1.StaticWebAssets.xml
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.dll
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.pdb
+C:\Users\Casa\OneDrive\Documents\GitHub\vitrine-de-site-de-viagem\Site\obj\Debug\netcoreapp3.1\Atividade_2_Alex_Ferreira_Santos1.genruntimeconfig.cache

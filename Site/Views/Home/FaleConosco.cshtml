@@ -1,0 +1,17 @@
+@{ViewData["Title"]="Fale Conosco";}
+<link rel="stylesheet" href="~/css/FaleConosco.css">
+<fieldset>
+<h2>Fale Conosco</h2>
+<p id="viewbag">@ViewBag.mensagem</p>
+<form asp-action="FaleConosco" method="post">
+<p><label for="nome">Digite seu nome: </label></p>
+<p><input type="text" name="nome" id="nome" placeholder="Coloque seu nome aqui" required></p>
+<p><label for="email">Digite seu e-mail: </label></p>
+<p><input type="email" name="email" id="email" placeholder="Digite seu e-mail aqui" required></p>
+<p><label for="mensagem">Digite sua mensagem: </label></p>
+<p><textarea name="mensagem" id="mensagem" cols="30" rows="10" placeholder="Digite sua mensagem aqui" required></textarea></p>
+<p><input type="submit" value="Enviar" id="Enviar"></p>
+<p><a asp-action="Index"><input type="button" value="Cancelar" id="Cancelar"></a></p>
+<p id="home_page">@if(ViewBag.mensagem!=null){<a asp-action="Index" id="home_page">Voltar a vitrine</a>}</p>
+</form>
+</fieldset>

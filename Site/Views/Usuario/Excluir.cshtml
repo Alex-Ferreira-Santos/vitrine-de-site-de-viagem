@@ -1,0 +1,18 @@
+@model Usuario
+@{ViewData["Title"]="Exclusão de Usuários";}
+<link rel="stylesheet" href="~/css/UExcluir.css">
+<fieldset>
+<h2>Exclusão de usuários</h2>
+@if(ViewBag.mensagem==null)
+{<h3 id="certeza">Tem certeza que deseja exluir esse usuário?</h3>}
+else{<p>@ViewBag.mensagem</p>}
+<form asp-action="Excluir" method="post">
+    <p><label asp-for="id">Selecione o id do usuário que deseja excluir</label></p>
+    <p><input asp-for="id" placeholder="número do id aqui" required></p>
+    <p><label asp-for="login">Digite o login do usuário que deseja excluir</label></p>
+    <p><input asp-for="login" placeholder="nome do login aqui" required></p>
+    <p><input type="submit" value="Excluir" id="Excluir"></p>
+    <p><a asp-action="Lista"><input type="button" value="Cancelar" id="cancelar"></a></p>
+</form>
+<p id="listar_page">@if(ViewBag.mensagem!=null){<a asp-action="Listar" id="listar_page">Voltar a listagem</a>}</p>
+</fieldset>

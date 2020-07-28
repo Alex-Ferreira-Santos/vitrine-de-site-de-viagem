@@ -1,0 +1,37 @@
+@model List<PacoteDeViagens>
+@{ViewData["Title"]="Listagem de Pacotes";}
+<link rel="stylesheet" href="~/css/PLista.css">
+<h2>Listagem de Pacotes</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Origem</th>
+            <th>Destino</th>
+            <th>Atrativo</th>
+            <th>Saida</th>
+            <th>Retorno</th>
+            <th>Usuario</th>
+            <th>imagem</th>
+            <th>Opções</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (PacoteDeViagens u in Model)
+        {
+            <tr>
+                <td>@u.id</td>
+                <td>@u.nome</td>
+                <td>@u.origem</td>
+                <td>@u.destino</td>
+                <td>@u.atrativo</td>
+                <td>@u.saida</td>
+                <td>@u.retorno</td>
+                <td>@u.usuario</td>
+                <td>@u.imagem</td>
+                <td><a asp-action="Edicao" id="edicao">Editar</a> | <a asp-action="Excluir" id="excluir">Excluir</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

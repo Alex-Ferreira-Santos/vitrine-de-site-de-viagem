@@ -1,0 +1,44 @@
+@model PacoteDeViagens
+@{ViewData["Title"]="Edição de Pacote";}
+<link rel="stylesheet" href="~/css/PEdicao.css">
+<fieldset>
+<h2>Edição de Pacote</h2>
+<p>@ViewBag.mensagem</p>
+<form asp-action="edicao" method="post">
+    <p>
+        <label asp-for="id">Id do pacote que deseja alterar: </label>
+        <input asp-for="id" placeholder="digite o id aqui" required>
+    </p>
+    <p>
+        <label asp-for="imagem">Selecione a nova imagem</label>
+        <input asp-for="imagem" type="file" required>
+    </p>
+    <p>
+        <label asp-for="nome">Nome: </label>
+        <input asp-for="nome" placeholder="Digite o novo nome" required>
+    </p>
+    <p>
+        <label asp-for="origem">Origem: </label>
+        <input asp-for="origem" placeholder="Digite a nova origem" required>
+    </p>
+    <p>
+        <label asp-for="destino">Destino: </label>
+        <input asp-for="destino" placeholder="Digite o novo destino" required>
+    </p>
+    <p>
+        <label asp-for="atrativo">Atrativos: </label>
+        <textarea asp-for="atrativo" cols="30" rows="10" placeholder="Digite os atrativos aqui"></textarea>
+    </p>
+    <p>
+        <label asp-for="saida">Saida: </label>
+        <input asp-for="saida" placeholder="Digite a nova data" required>
+    </p>
+    <p>
+        <label asp-for="retorno">Retorno: </label>
+        <input asp-for="retorno" placeholder="Digite a nova data" required>
+    </p>
+    <p><input type="submit" value="Confirmar" id="confirmar"></p>
+    <p><a asp-action="Lista"><input type="button" value="cancelar" id="cancelar"></a></p>
+    <p id="listar_page">@if(ViewBag.mensagem!=null){<a asp-action="Lista" id="listar_page">Voltar a listagem</a>}</p>
+</form>
+</fieldset>
